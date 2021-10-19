@@ -16,15 +16,55 @@ This lab will review downloading and uncompressing files, and it will get us set
 Write the command that you used to do this below:
 ----------
 
-
+cd
 
 ==========
 2. Prove that you're in your home directory.
 
 Write the command that you used to do this - as well as its output - below :
 ----------
-
-
+ls
+'3D Objects'/      
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Documents/        
+ Downloads/
+ Favorites/
+ filename.tar.gz
+ filename.txt
+ hello.txt
+ Intel/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ mtec1002-lab-03.tar.gz
+ mtec1003-lab-02
+ Music/
+'My Documents'@
+ NetHood@
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.0.regtrans-ms
+ NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.1.regtrans-ms
+ NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.2.regtrans-ms
+ NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ OneDrive/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ stuff/
+ Templates@
+ Videos/
 
 ==========
 3. Are there any directories or files in your directory that have the word mtec1003 in it?
