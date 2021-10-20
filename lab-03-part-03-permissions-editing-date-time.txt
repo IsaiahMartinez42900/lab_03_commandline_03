@@ -17,17 +17,17 @@ We're going to be writing a shell script.  First, though... let's figure out wha
 
 What command did you use, and what was its output?
 ----------
+date
 
-
-
+Wed, Oct 20, 2021  2:35:12 PM
 ==========
 2. Print out a calendar for this month.
 
 What command did you use, and what was its output?
 ----------
+cal
 
-
-
+bash: cal: command not found
 ==========
 3. Go to your home directory.  Verify that you're in your home directory.
 
