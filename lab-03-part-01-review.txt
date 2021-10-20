@@ -105,9 +105,11 @@ This command should have a *flag* to specify the output file.  MAKE SURE TO NAME
 
 Write the command(s) that you used to download this file - as well as its output - below:
 ----------
-
-
-
+curl https://citytech.s3.amazonaws.com/mtec-1003-lab-03.tar.gz
+curl -o mtec-1003-lab-03.tar.gz https://citytech.s3.amazonaws.com/mtec-1003-lab-03.tar.gz
+ % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  897k  100  897k    0     0  2434k      0 --:--:-- --:--:-- --:--:-- 2444k
 ==========
 7.  Uncompress the file that you just downloaded.
 
